@@ -39,4 +39,4 @@ for(let k=1; k<=100; k++)
 
 // updated by vijay thalapathy, master enna summava
 
-// adding chnages to vaathi raid
+// adding changes to vaathi raid - Bhavani is dead!
