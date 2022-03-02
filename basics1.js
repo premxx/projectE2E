@@ -39,4 +39,4 @@ for(let k=1; k<=100; k++)
 
 // updated by vijay thalapathy, master enna summava
 
-// adding changes to vaathi raid - Pushpa Thagge dele
+// adding changes to vaathi raid - hala enda monuse jadayano
