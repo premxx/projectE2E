@@ -37,6 +37,6 @@ for(let k=1; k<=100; k++)
 }
 
 
-// added by qa2 for regression testing
+// updated by vijay thalapathy, master enna summava
 
-//adding chnages to master vaathi raid
+// adding changes to vaathi raid - Bhavani is dead!
